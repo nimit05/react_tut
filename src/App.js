@@ -9,7 +9,7 @@ import React , {useState} from 'react'
   }
   return(
     <div>
-      Hello World {count}
+      Hell World {count}
       <br />
       <button onClick = {handleClick}>Set</button>
     </div>
